@@ -2,7 +2,7 @@
 title: Julian's Recipes
 email: julian@wachholz.ch
 description: My personal plain text recipe database
-baseurl: "http://recipes.wachholz.ch"
+baseurl: "https://recipes.wachholz.ch"
 language: "en"
 lang_direction: "ltr"
 color: "#007FFF"
