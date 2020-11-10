@@ -1,9 +1,9 @@
 ---
 layout: recipe
 title: "Tres Leches Cake"
-image: tres-leches.jpg
-imagecredit: https://www.youtube.com/watch?v=EqU_jMyr2P8
-tags: dessert, baking
+image: tres-leches.webp
+imagecredit:
+tags: dessert, baking, sweet
 
 ingredients:
   - 6 eggs separated
